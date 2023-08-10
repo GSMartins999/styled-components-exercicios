@@ -15,7 +15,7 @@ const Body = styled.body`
   margin: 0;
 `
 
-const TelaInteira = styled.area`
+const TelaInteira = styled.body`
   height: 100vh;
   display: flex;
   flex-direction: column;
